@@ -1,0 +1,15 @@
+{
+  "name": "sub-atomic-colour-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Minor syntax highlighting with tinted comments",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/snobb/sub-atomic-colour-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
