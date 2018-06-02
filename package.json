@@ -1,7 +1,7 @@
 {
   "name": "sub-atomic-colour-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minor syntax highlighting with tinted comments",
   "keywords": [
     "syntax",
